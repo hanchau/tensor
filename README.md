@@ -49,5 +49,5 @@
 
 ##### References
 1. [Neural net on MNIST Fashion | Venelin Valkov](https://towardsdatascience.com/building-your-first-neural-network-in-tensorflow-2-tensorflow-for-hackers-part-i-e1e2f1dfe7a0)
-2. [GDRIVE from Command Line](https://medium.com/geekculture/how-to-upload-file-to-google-drive-from-linux-command-line-69668fbe4937)
+2. [GDRIVE from Command Line | Utkarsha Bakshi](https://medium.com/geekculture/how-to-upload-file-to-google-drive-from-linux-command-line-69668fbe4937)
    
